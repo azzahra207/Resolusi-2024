@@ -5,3 +5,4 @@
 3. latihan basic tentang HTML dan CSS
     = pelajari tentang struktur HTML dan tag2nya
     = syntax CSS dan kegunaannya
+main
