@@ -3,3 +3,4 @@
     sosialisasi diperuntukkan untuk menyaring nama-nama siswa yang berminat sehingga setiap siswa mendapatkan informasi yang sama dan ada     kesetaraan
 2. buat rundown kegiatan
 3. latihan basic tentang HTML dan CSS
+    = pelajari HTML5
